@@ -948,7 +948,7 @@ footer {
     padding: 100px 0
 }
 footer p {
-    color: #c7cacc;
+    color: #004D40;
     font-size: 12px;
 }
 footer ul {
@@ -962,7 +962,7 @@ footer li {
     font-weight: 400;
 }
 footer li a {
-    color: #3f6184
+    color: #004D40
 }
 footer li:last-child {
     margin-right: 0
